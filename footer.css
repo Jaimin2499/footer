@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* ========================Contact============================ */
+
+.contact {
+    width: 100%;
+    height: 90vh;
+    margin-top: 10vh;
+    background: #444 url(https://neosalon.wpengine.com/wp-content/uploads/2016/08/pattern.png?id=9530);
+}
+
+.contact .name {
+    position: absolute;
+    height: 40px;
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+.contact .name h2 {
+    text-align: center;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.contact .feedback {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 25%;
+}
+
+.contact .form-control {
+    background: none;
+}
+
+.feedback button {
+    margin-left: 40%;
+    border: none;
+    width: 100px;
+    height: 40px;
+    background: transparent;
+    color: white;
+    border: white solid 1px;
+}
+
+
+/* ========================Footer============================ */
+
+.footer {
+    width: 100%;
+    height: 90vh;
+    background: url(https://image.freepik.com/free-vector/elegant-business-background-with-lines-template_1361-2542.jpg);
+    background-size: cover;
+}
+
+.footer .details {
+    position: absolute;
+    width: 90%;
+    height: 350px;
+    margin-top: 10%;
+    margin-left: 3%;
+}
+
+.footer .card {
+    margin-left: 9%;
+    background: transparent;
+    border: none;
+}
+
+.footer .card .email {
+    display: flex;
+    width: 100%;
+    height: 30px;
+    padding-bottom: 50px;
+}
+
+.footer .card .email i {
+    margin-top: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.footer .card .email h4 {
+    margin-left: 10px;
+    margin-top: -5px;
+    color: white;
+}
+
+.footer .card .call {
+    display: flex;
+    width: 100%;
+    height: 30px;
+}
+
+.footer .card .call i {
+    margin-top: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.footer .card .call h4 {
+    margin-left: 10px;
+    margin-top: -5px;
+    color: white;
+}
+
+.footer .card h5 {
+    color: white;
+}
+
+.footer .card h3 {
+    padding-top: 20px;
+    color: white;
+    font-size: 15px;
+}
+
+.footer .card h4 {
+    color: white;
+    padding: 10px 0px;
+    font-size: 15px;
+}
